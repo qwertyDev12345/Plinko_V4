@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "417856661035",
+    "project_id": "plincowinssocialjackpotplinko",
+    "storage_bucket": "plincowinssocialjackpotplinko.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417856661035:android:9346eb315b0573b8d4ec6e",
+        "android_client_info": {
+          "package_name": "com.plinco.wins.social.jackpotplinko"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMI10aR5QMVJ9axldmBDKXogMY9vwYN5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

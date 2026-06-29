@@ -1,0 +1,14 @@
+{
+  "name": "ZeyWin.TextMeshPro.Examples.Disabled",
+  "rootNamespace": "",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": ["ZEYWIN_TMP_EXAMPLES_ENABLED"],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+    <uses-feature android:name="android.hardware.microphone" android:required="false" />
+    <uses-feature android:name="android.hardware.camera" android:required="false" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" tools:targetApi="33" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+    <queries>
+        <package android:name="com.plinko.PachinkoLuckyBallBounce" />
+        <package android:name="com.PlayMaxSolutions.PlinkoLuckyBallGame" />
+        <package android:name="poor.test.app" />
+        <package android:name="com.PlayMaxSolutions.Roulette" />
+        <package android:name="com.PlayMaxSolutions.PlinkoRealMoney" />
+        <package android:name="com.playsocialgames.plinko" />
+        <package android:name="com.playsocialgames.luckywheel" />
+        <package android:name="com.playsocialgames.plinkofun" />
+        <package android:name="com.socialapps.plinko" />
+        <package android:name="com.playsocialgames.chicken.road" />
+        <package android:name="com.pokies.casino.slots" />
+        <package android:name="com.zeywin.sdkdemo" />
+        <package android:name="com.gaming.plinko" />
+        <package android:name="com.plinko.balldrop" />
+        <package android:name="com.falling.plinko" />
+        <package android:name="com.popyuiop.plinkotest" />
+        <package android:name="com.plinko.game.socialjackpot" />
+        <package android:name="com.pachinko.socialgame" />
+        <package android:name="de.robv.android.xposed.installer" />
+        <package android:name="de.robv.android.xposed" />
+        <package android:name="org.meowcat.edxposed.manager" />
+        <package android:name="org.lsposed.manager" />
+        <package android:name="org.lsposed.lspatch" />
+        <package android:name="io.va.exposed" />
+        <package android:name="me.weishu.exp" />
+        <package android:name="com.saurik.substrate" />
+        <package android:name="re.frida.server" />
+        <package android:name="com.dimonvideo.luckypatcher" />
+        <package android:name="com.chelpus.lackypatch" />
+        <package android:name="com.forpda.lp" />
+        <package android:name="com.wind.xpatch" />
+        <package android:name="mobi.acpm.inspeckage" />
+        <package android:name="mobi.acpm.sslunpinning" />
+        <package android:name="just.trust.me" />
+        <package android:name="com.xk72.charles" />
+        <package android:name="tech.httptoolkit.android.v1" />
+        <package android:name="com.guoshi.httpcanary" />
+        <package android:name="com.guoshi.httpcanary.premium" />
+        <package android:name="app.greyshirts.sslcapture" />
+        <package android:name="jp.co.taosoftware.android.packetcapture" />
+        <package android:name="com.egorovandreyrm.pcapremote" />
+        <package android:name="com.emanuelef.remote_capture" />
+        <package android:name="com.proxyman.android" />
+        <package android:name="com.reqable.android" />
+        <package android:name="com.minhui.networkcapture" />
+        <package android:name="com.minhui.networkcapture.pro" />
+        <package android:name="com.minhui.packetcapture" />
+        <package android:name="com.telerik.fiddler" />
+        <package android:name="org.sandroproxy.drony" />
+        <package android:name="org.sandroproxy" />
+        <package android:name="catch.monitor" />
+        <package android:name="com.cih.game_cih" />
+        <package android:name="com.killerapp.gamekiller" />
+        <package android:name="org.sbtools.gamehack" />
+        <package android:name="org.cheatengine.cegui" />
+        <package android:name="com.leo.playcard" />
+        <package android:name="org.creeplays.hack" />
+        <package android:name="cc.madkite.freedom" />
+        <package android:name="com.xmodgame" />
+        <package android:name="com.cih.gamecih2" />
+        <package android:name="bin.mt.plus" />
+        <package android:name="bin.mt" />
+        <package android:name="com.gmail.heagoo.apkeditor" />
+        <package android:name="com.gmail.heagoo.apkeditor.pro" />
+        <package android:name="com.gmail.heagoo.apkeditor.free" />
+        <package android:name="com.njlabs.showjava" />
+        <package android:name="io.virtualapp" />
+        <package android:name="com.lbe.parallel.intl" />
+        <package android:name="com.lbe.parallel" />
+        <package android:name="com.ludashi.dualspace" />
+        <package android:name="com.excelliance.multiaccounts" />
+        <package android:name="com.polestar.super.clone" />
+        <package android:name="com.vmos.app" />
+        <package android:name="com.vmos.pro" />
+        <package android:name="com.x8bit.biern" />
+        <package android:name="eu.chainfire.supersu" />
+        <package android:name="com.topjohnwu.magisk" />
+        <package android:name="com.kingroot.kinguser" />
+        <package android:name="com.kingo.root" />
+        <package android:name="com.koushikdutta.superuser" />
+        <package android:name="com.noshufou.android.su" />
+        <package android:name="com.codex.appinspector" />
+        <package android:name="com.jgba.appinspector" />
+        <package android:name="com.ubqsoft.sec01" />
+        <package android:name="de.szalkowski.activitylauncher" />
+        <package android:name="io.github.muntashirakon.AppManager" />
+        <package android:name="com.termux" />
+        <intent>
+            <action android:name="android.intent.action.VIEW" />
+            <data android:scheme="https" />
+        </intent>
+        <intent>
+            <action android:name="android.intent.action.VIEW" />
+            <data android:scheme="http" />
+        </intent>
+        <intent>
+            <action android:name="android.intent.action.VIEW" />
+            <data android:scheme="market" />
+        </intent>
+        <intent>
+            <action android:name="android.intent.action.VIEW" />
+            <data android:scheme="intent" />
+        </intent>
+    </queries>
+    <application android:usesCleartextTraffic="true" android:theme="@style/ZeyWinAdsLaunchTheme">
+        <meta-data android:name="zeywin.deeplink.scheme" android:value="com.plinco.wins.social.jackpotplinko" />
+        <activity android:name="com.unity3d.player.UnityPlayerActivity" android:exported="true" android:enabled="true" android:theme="@style/ZeyWinAdsLaunchTheme" android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|density|fontScale|layoutDirection|colorMode">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="com.plinko.game.socialjackpot" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="com.plinco.wins.social.jackpotplinko" />
+            </intent-filter>
+        </activity>
+        <meta-data android:name="com.google.android.gms.ads.APPLICATION_ID" android:value="ca-app-pub-6988952582458184~6022883799" />
+        <provider android:name="com.zeywinads.unity.ZeyWinAdsStartupProvider" android:authorities="com.plinko.game.socialjackpot.zeywinads.startup" android:exported="false" android:initOrder="1000" />
+    </application>
+</manifest>

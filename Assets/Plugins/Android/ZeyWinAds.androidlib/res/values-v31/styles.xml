@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="ZeyWinAdsLaunchTheme" parent="@style/UnityThemeSelector">
+    <item name="android:windowBackground">@color/zeywin_ads_launch_background</item>
+    <item name="android:colorBackground">@color/zeywin_ads_launch_background</item>
+    <item name="android:statusBarColor">@color/zeywin_ads_launch_background</item>
+    <item name="android:navigationBarColor">@color/zeywin_ads_launch_background</item>
+    <item name="android:windowLightStatusBar">false</item>
+    <item name="android:windowLightNavigationBar">false</item>
+    <item name="android:forceDarkAllowed">false</item>
+    <item name="android:windowSplashScreenBackground">@color/zeywin_ads_launch_background</item>
+    <item name="android:windowSplashScreenIconBackgroundColor">@color/zeywin_ads_launch_background</item>
+  </style>
+</resources>
