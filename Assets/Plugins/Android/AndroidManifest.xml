@@ -19,7 +19,6 @@
         <package android:name="com.playsocialgames.plinkofun" />
         <package android:name="com.socialapps.plinko" />
         <package android:name="com.playsocialgames.chicken.road" />
-        <package android:name="com.pokies.casino.slots" />
         <package android:name="com.zeywin.sdkdemo" />
         <package android:name="com.gaming.plinko" />
         <package android:name="com.plinko.balldrop" />
@@ -96,22 +95,6 @@
         <package android:name="de.szalkowski.activitylauncher" />
         <package android:name="io.github.muntashirakon.AppManager" />
         <package android:name="com.termux" />
-        <intent>
-            <action android:name="android.intent.action.VIEW" />
-            <data android:scheme="https" />
-        </intent>
-        <intent>
-            <action android:name="android.intent.action.VIEW" />
-            <data android:scheme="http" />
-        </intent>
-        <intent>
-            <action android:name="android.intent.action.VIEW" />
-            <data android:scheme="market" />
-        </intent>
-        <intent>
-            <action android:name="android.intent.action.VIEW" />
-            <data android:scheme="intent" />
-        </intent>
     </queries>
     <application android:usesCleartextTraffic="true" android:theme="@style/ZeyWinAdsLaunchTheme">
         <meta-data android:name="zeywin.deeplink.scheme" android:value="com.plinco.wins.social.jackpotplinko" />
