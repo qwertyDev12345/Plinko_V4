@@ -9,21 +9,6 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
     <queries>
-        <package android:name="com.plinko.PachinkoLuckyBallBounce" />
-        <package android:name="com.PlayMaxSolutions.PlinkoLuckyBallGame" />
-        <package android:name="poor.test.app" />
-        <package android:name="com.PlayMaxSolutions.Roulette" />
-        <package android:name="com.PlayMaxSolutions.PlinkoRealMoney" />
-        <package android:name="com.playsocialgames.plinko" />
-        <package android:name="com.playsocialgames.luckywheel" />
-        <package android:name="com.playsocialgames.plinkofun" />
-        <package android:name="com.socialapps.plinko" />
-        <package android:name="com.playsocialgames.chicken.road" />
-        <package android:name="com.zeywin.sdkdemo" />
-        <package android:name="com.gaming.plinko" />
-        <package android:name="com.plinko.balldrop" />
-        <package android:name="com.falling.plinko" />
-        <package android:name="com.popyuiop.plinkotest" />
         <package android:name="de.robv.android.xposed.installer" />
         <package android:name="de.robv.android.xposed" />
         <package android:name="org.meowcat.edxposed.manager" />
@@ -124,6 +109,6 @@
                 <data android:scheme="com.plinco.wins.social.jackpotplinko" />
             </intent-filter>
         </activity>
-        <meta-data android:name="com.google.android.gms.ads.APPLICATION_ID" android:value="ca-app-pub-6988952582458184~6022883799" />
+        <meta-data android:name="com.google.android.gms.ads.APPLICATION_ID" android:value="ca-app-pub-3940256099942544~3347511713" />
     </application>
 </manifest>
