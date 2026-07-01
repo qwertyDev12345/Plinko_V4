@@ -33,8 +33,13 @@ jobs:
       ###########################
       - uses: actions/cache@v3
         with:
-          path: Library
-          key: Library-${{ matrix.targetPlatform }}
+          path: |
+            Library/PackageCache
+            Library/ScriptAssemblies
+            Library/Bee
+          key: Library-${{ matrix.targetPlatform }}-${{ hashFiles('Packages/manifest.json', 'Packages/packages-lock.json') }}
+          restore-keys: |
+            Library-${{ matrix.targetPlatform }}-
 
       ###########################
       #          Build          #
