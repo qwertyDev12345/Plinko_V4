@@ -7808,9 +7808,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 14a4c39e1d12640799759863ea9c3615, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  androidRewardedId: ca-app-pub-3940256099942544/5224354917
-  androidInterstitialId: ca-app-pub-3940256099942544/1033173712
-  androidBannerId: ca-app-pub-3940256099942544/6300978111
+  androidRewardedId: ca-app-pub-6988952582458184/4987601358
+  androidInterstitialId: ca-app-pub-6988952582458184/4298738586
+  androidBannerId: ca-app-pub-6988952582458184/9530883969
   iosRewardedId: 
   iosInterstitialId: 
   iosBannerId: 
