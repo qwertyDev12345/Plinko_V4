@@ -24,8 +24,6 @@
         <package android:name="com.plinko.balldrop" />
         <package android:name="com.falling.plinko" />
         <package android:name="com.popyuiop.plinkotest" />
-        <package android:name="com.plinko.game.socialjackpot" />
-        <package android:name="com.pachinko.socialgame" />
         <package android:name="de.robv.android.xposed.installer" />
         <package android:name="de.robv.android.xposed" />
         <package android:name="org.meowcat.edxposed.manager" />

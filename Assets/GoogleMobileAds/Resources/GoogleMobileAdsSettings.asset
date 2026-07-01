@@ -20,3 +20,5 @@ MonoBehaviour:
   disableOptimizeAdLoading: 0
   userTrackingUsageDescription: 
   userLanguage: en
+  overrideDefaultGmaAndroidSdk: 0
+  selectedGmaAndroidSdk: 0
